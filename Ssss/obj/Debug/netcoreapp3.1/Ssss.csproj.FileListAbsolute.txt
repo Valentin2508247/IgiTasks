@@ -110,3 +110,4 @@ C:\Users\ASUS\source\repos\Ssss\Ssss\obj\Debug\netcoreapp3.1\Razor\Views\Home\Fi
 C:\Users\ASUS\source\repos\Ssss\Ssss\obj\Debug\netcoreapp3.1\Razor\Views\Home\SecondTask.cshtml.g.cs
 C:\Users\ASUS\source\repos\Ssss\Ssss\obj\Debug\netcoreapp3.1\Razor\Views\TagHelper\Index.cshtml.g.cs
 C:\Users\ASUS\source\repos\Ssss\Ssss\obj\Debug\netcoreapp3.1\Razor\Views\TagHelper\SomeTask.cshtml.g.cs
+C:\Users\ASUS\source\repos\Ssss\Ssss\obj\Debug\netcoreapp3.1\Razor\Views\TagHelper\AnotherTask.cshtml.g.cs

@@ -18,5 +18,10 @@ namespace Ssss.Controllers
         {
             return View();
         }
+
+        public IActionResult AnotherTask()
+        {
+            return View();
+        }
     }
 }
