@@ -1,0 +1,18 @@
+﻿@using Ssss.Models
+@{
+    ViewData["Title"] = "SomeTask";
+}
+
+@{ 
+    var myModel = new Hero
+    {
+        Level = 1,
+        Name = "Dragon Knight",
+        Strength = 19,
+        Agillity = 19,
+        Intellegence = 18
+    };
+}
+
+<h6>Написать помощник тега для элемента data-display с атрибутом model...</h6>
+<data-display model = "myModel"/>

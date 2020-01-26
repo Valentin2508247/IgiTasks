@@ -1,0 +1,17 @@
+﻿@model List<string>
+@{
+    ViewData["Title"] = "FirstTask";
+}
+
+<h3>FirstTask</h3>
+<form>
+    <input type="number" name="start" />
+    <input type="number" name="count" />
+    <input type="submit" value="Отправить"/>
+</form>
+<ul>
+    @foreach (var str in Model)
+    {
+        <li>@str</li>
+    }
+</ul>
